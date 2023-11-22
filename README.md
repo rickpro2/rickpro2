@@ -45,7 +45,7 @@ Here are some ideas to get you started:
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>Certifications</h2>
-- [Google IT Support Professional](https://coursera.org/verify/H665QTXQQKUD)
+  - [Google IT Support Professional](https://coursera.org/verify/H665QTXQQKUD)
 
 <h2>📺 Popular YouTube Videos</h2>
 
