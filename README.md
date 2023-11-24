@@ -1,6 +1,19 @@
+<h1>Hi, I'm Rickie! <br/><a href="https://github.com/rickpro2">Programmer</a>, <a href="https://www.linkedin.com/in/rickpro2/">Cybersecurity Professional</a></h1>
+<h1 align="center">Hello, world! 👋 I'm Amilia</h1>
+<h3 align="center">A passionate IT & Cybersecurity professional committed to protecting data and enhancing cybersecurity measures</h3>
+ <br />
+ 
+ 
+ 
+ <br />
+  <br />
+   <br />
+    <br />
+     <br />
+<!--
 ### Hi there 👋
 
-<!--
+
 **rickpro2/rickpro2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
