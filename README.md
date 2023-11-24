@@ -1,6 +1,6 @@
 <h1>Hi, I'm Rickie! <br/><a href="https://github.com/rickpro2">Programmer</a>, <a href="https://www.linkedin.com/in/rickpro2/">Cybersecurity Professional</a></h1>
 <h1 align="center">Hello, world! 👋 I'm Rickie</h1>
-<h3 align="center">A passionate <a href="https://www.linkedin.com/in/rickpro2/">Director of IT</a> & <a href="https://github.com/rickpro2">Cybersecurity professional</a> committed to protecting data and enhancing cybersecurity measures</h3>
+<h3 align="center">A passionate <a href="https://www.linkedin.com/in/rickpro2/">Director of Information Technology</a> & <a href="https://github.com/rickpro2">Cybersecurity professional</a> committed to protecting data and enhancing cybersecurity measures</h3>
  <br />
  
  
