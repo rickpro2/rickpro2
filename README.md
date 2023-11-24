@@ -12,6 +12,18 @@ I invite you to explore my GitHub portfolio to get a glimpse into my technical c
 ---
 
 
+
+
+
+<h2>📲 Connect with me:</h2>
+
+[<img align="left" alt="RickieProctor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.13.0/icons/minutemailer.svg" />][email]
+[<img align="left" alt="RickieProctor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[email]: mailto:rickie@rickieproctor.com
+[linkedin]: https://linkedin.com/in/rickpro2
+
+
  
   <br />
    <br />
@@ -21,7 +33,6 @@ I invite you to explore my GitHub portfolio to get a glimpse into my technical c
        <br />
         <br />
 
-<h1>Hi, I'm Rickie! <br/><a href="https://github.com/rickpro2">Programmer</a>, <a href="https://www.linkedin.com/in/rickpro2/">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
