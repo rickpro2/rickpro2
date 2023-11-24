@@ -1,5 +1,5 @@
 <h1 align="center">Hello, world! 👋 I'm Rickie</h1>
-<h3 align="center">A passionate <a href="https://www.linkedin.com/in/rickpro2/">Director of Information Technology</a> & <a href="https://github.com/rickpro2">Cybersecurity professional</a> committed to protecting data and enhancing cybersecurity measures</h3>
+<h3 align="center">A passionate <a href="https://www.linkedin.com/in/rickpro2/ "target="_blank">Director of Information Technology</a> & <a href="https://github.com/rickpro2" target="_blank">Cybersecurity professional</a> committed to protecting data and enhancing cybersecurity measures</h3>
  <br />
 
 Thank you for visiting my GitHub! This repository is meant to showcase my cybersecurity journey and the projects I've had the privilege of working on.
