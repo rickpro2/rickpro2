@@ -2,6 +2,13 @@
 <h3 align="center">A passionate <a href="https://www.linkedin.com/in/rickpro2/">Director of Information Technology</a> & <a href="https://github.com/rickpro2">Cybersecurity professional</a> committed to protecting data and enhancing cybersecurity measures</h3>
  <br />
  
+
+
+
+
+
+
+
  
  
  <br />
@@ -9,8 +16,7 @@
    <br />
     <br />
      <br />
-<!--
-### Hi there 👋
+
 
 **rickpro2/rickpro2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,7 +30,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 
 
