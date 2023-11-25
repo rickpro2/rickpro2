@@ -11,7 +11,10 @@ I invite you to explore my GitHub portfolio to get a glimpse into my technical c
 
 ---
 
+<h2>  🖥️ Projects  :</h2>
 
+- [Internal Security Audit](https://github.com/rickpro2/Internal-Security-Audit)
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
 
