@@ -11,13 +11,10 @@ I invite you to explore my GitHub portfolio to get a glimpse into my technical c
 
 ---
 
-<h2>  🖥️ Projects  :</h2>
+<h2>  🖥️ Cyber Security Projects  :</h2>
 
 - [Internal Security Audit](https://github.com/rickpro2/Internal-Security-Audit)
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-
-
-
+  
 <h2>📲 Connect with me:</h2>
 
 [<img align="left" alt="RickieProctor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.13.0/icons/minutemailer.svg" />][email]
