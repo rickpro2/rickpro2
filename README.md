@@ -1,3 +1,25 @@
+
+
+
+
+ <br />
+  <br />
+   <br />
+    <br />
+     <br />
+      <br />
+       <br />
+        <br />
+         <br />
+
+
+
+---
+
+
+
+
+
 <h1 align="center">Hello, world! 👋 I'm Rickie</h1>
 <h3 align="center">A passionate <a href="https://www.linkedin.com/in/rickpro2/ "target="_blank">Director of Information Technology</a> & <a href="https://github.com/rickpro2" target="_blank">Cybersecurity professional</a> committed to protecting data and enhancing cybersecurity measures</h3>
 
