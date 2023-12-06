@@ -1,8 +1,16 @@
-<h1 align="center">Hello, world! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Rickie</h1>
+<h1 align="center">Hello, world! <img src="[http://some_place.com/image.png](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)"/>I'm Rickie</h1>
+ 
+
 
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rickie M. Proctor II
 
 # Here's a Heading
+
+
+<p align="center">
+  <img src="http://some_place.com/image.png" />
+</p>
+
 
  <br />
   <br />
