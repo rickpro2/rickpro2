@@ -76,10 +76,6 @@ Director of Information Technology & Cybersecurity Professional
 
 Thank you for visiting my GitHub! This repository is meant to showcase my cybersecurity journey and the projects I've had the privilege of working on. I've had the honor of working in a variety of tech-related positions over the past years. I've always been motivated by the urge to use technology to solve challenges and enhance user experiences, from debugging difficult technical difficulties to managing service requests and putting software solutions in place. These encounters have helped me to develop a solid set of IT abilities and have molded my perspective of the digital world. But I ultimately discovered my true calling in the field of cybersecurity. My background in IT gave me the appropriate foundation to go deeply into this area because I have always been fascinated by the complexities of safeguarding digital systems. I invite you to explore my GitHub portfolio to get a glimpse into my technical capabilities. These projects showcase insights into my problem-solving approach, attention to detail, and ability to analyze risks and implement appropriate mitigation strategies.
 
-*   🌍  I'm based in Annapolis, Maryland, USA
-*   ✉️  You can contact me at [rickie@rickieproctor.com](mailto:rickie@rickieproctor.com)
-*   ⚡  I'm secretly Spiderman... but don't tell anyone.<a href="https://www.github.com/rickpro2" target="_blank" rel="noreferrer"><img
-                 src="https://img.shields.io/github/followers/rickpro2?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
                   
 ### Skills 
 <p align="left">
