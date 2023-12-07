@@ -14,7 +14,7 @@ I invite you to explore my GitHub portfolio to get a glimpse into my technical c
 *   ✉️  You can contact me at [rickie@rickieproctor.com](mailto:rickie@rickieproctor.com)
 *   ⚡  I'm secretly Spiderman... but don't tell anyone.
 
-<h2>📲 Skills:</h2>
+### Skills
 
 <h2>📲 Connect with me:</h2>
 
