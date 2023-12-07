@@ -18,7 +18,7 @@ I invite you to explore my GitHub portfolio to get a glimpse into my technical c
 [<img align="left" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" />][JavaScript]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[JavaScript]: mailto:rickie@rickieproctor.com
+[JavaScript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [linkedin]: https://linkedin.com/in/rickpro2
 
 
