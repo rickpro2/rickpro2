@@ -31,16 +31,6 @@ I invite you to explore my GitHub portfolio to get a glimpse into my technical c
 [Premiere Pro]: https://www.adobe.com/uk/products/premiere.html
 [Google Cloud]: https://cloud.google.com/
 
-
-
-
-
-
-
-
-
-
-
 <br />
 
 <h2>📲 Connect with me:</h2>
