@@ -15,7 +15,7 @@ I invite you to explore my GitHub portfolio to get a glimpse into my technical c
 *   ⚡  I'm secretly Spiderman... but don't tell anyone.
 
 ### Skills
-[<img align="left" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" />][JavaScript]
+[<img align="left" alt="JavaScript" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />][JavaScript]
 [<img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" />][HTML5]
 [<img align="left" alt="Digital Ocean" width="36px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" />][Digital Ocean]
 [<img align="left" alt="Linux" width="36px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" />][Linux]
@@ -39,7 +39,7 @@ I invite you to explore my GitHub portfolio to get a glimpse into my technical c
 <h2>📲 Connect with me:</h2>
 
 [<img align="left" alt="Email" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.13.0/icons/minutemailer.svg" />][email]
-[<img align="left" alt="LinkedIn" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="LinkedIn" width="36px" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" />][linkedin]
 
 [email]: mailto:rickie@rickieproctor.com
 [linkedin]: https://linkedin.com/in/rickpro2
