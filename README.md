@@ -1,5 +1,6 @@
 <h1 align="center">Hello, world! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/> I'm Rickie</h1>
- 
+
+<h3 align="center">A passionate <a href="https://www.linkedin.com/in/rickpro2/ "target="_blank">Director of Information Technology</a> & <a href="https://github.com/rickpro2" target="_blank">Cybersecurity professional</a> committed to protecting data and enhancing cybersecurity measures</h3>
 
 
 
@@ -21,7 +22,6 @@
 
 <!--
 
-<h1 align="center">Hello, world! 👋 I'm Rickie</h1>
 <h3 align="center">A passionate <a href="https://www.linkedin.com/in/rickpro2/ "target="_blank">Director of Information Technology</a> & <a href="https://github.com/rickpro2" target="_blank">Cybersecurity professional</a> committed to protecting data and enhancing cybersecurity measures</h3>
 
  <br />
