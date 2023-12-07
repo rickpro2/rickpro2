@@ -58,7 +58,9 @@ I invite you to explore my GitHub portfolio to get a glimpse into my technical c
 
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rickpro2&label=Profile%20views&color=0e75b6&style=plastic" alt="rickpro2" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rickpro2" alt="rickpro2" /></a> </p>
 
 
 
