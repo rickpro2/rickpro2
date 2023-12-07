@@ -19,18 +19,21 @@ I invite you to explore my GitHub portfolio to get a glimpse into my technical c
 [<img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" />][HTML5]
 [<img align="left" alt="Digital Ocean" width="36px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" />][Digital Ocean]
 [<img align="left" alt="Linux" width="36px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" />][Linux]
+[<img align="left" alt="Illustrator" width="36px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" />][Illustrator]
+[<img align="left" alt="Premiere Pro" width="36px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" />][Premiere Pro]
+[<img align="left" alt="Google Cloud" width="36px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" />][Google Cloud]
 
 [JavaScript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [HTML5]: https://developer.mozilla.org/en-US/docs/Glossary/HTML5
 [Digital Ocean]: https://www.digitalocean.com
 [Linux]: https://www.linux.org
-
-
-
+[Illustrator]: https://www.adobe.com/uk/products/illustrator.html
+[Premiere Pro]: https://www.adobe.com/uk/products/premiere.html
+[Google Cloud]: https://cloud.google.com/
 
 
 <p align="right">
-<a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
                     </p>
 
 
