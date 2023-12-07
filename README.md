@@ -32,6 +32,7 @@ I invite you to explore my GitHub portfolio to get a glimpse into my technical c
 [Google Cloud]: https://cloud.google.com/
 
 <br />
+<br />
 
 <h2>📲 Connect with me:</h2>
 
