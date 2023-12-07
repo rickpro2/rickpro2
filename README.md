@@ -22,6 +22,7 @@ I invite you to explore my GitHub portfolio to get a glimpse into my technical c
 [<img align="left" alt="Illustrator" width="36px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" />][Illustrator]
 [<img align="left" alt="Premiere Pro" width="36px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" />][Premiere Pro]
 [<img align="left" alt="Google Cloud" width="36px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" />][Google Cloud]
+[<img align="left" alt="Wordpress" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />][Wordpress]
 
 [JavaScript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [HTML5]: https://developer.mozilla.org/en-US/docs/Glossary/HTML5
@@ -30,6 +31,7 @@ I invite you to explore my GitHub portfolio to get a glimpse into my technical c
 [Illustrator]: https://www.adobe.com/uk/products/illustrator.html
 [Premiere Pro]: https://www.adobe.com/uk/products/premiere.html
 [Google Cloud]: https://cloud.google.com/
+[Wordpress]: https://wordpress.org/
 
 <br />
 <br />
