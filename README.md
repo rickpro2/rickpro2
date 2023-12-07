@@ -15,6 +15,11 @@ I invite you to explore my GitHub portfolio to get a glimpse into my technical c
 *   ⚡  I'm secretly Spiderman... but don't tell anyone.
 
 ### Skills
+[<img align="left" alt="Email" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.13.0/icons/minutemailer.svg" />][email]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[email]: mailto:rickie@rickieproctor.com
+[linkedin]: https://linkedin.com/in/rickpro2
 
 <h2>📲 Connect with me:</h2>
 
