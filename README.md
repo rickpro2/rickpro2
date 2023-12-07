@@ -15,9 +15,6 @@ I invite you to explore my GitHub portfolio to get a glimpse into my technical c
 *   🌍  I'm based in Annapolis, Maryland, USA
 *   ✉️  You can contact me at [rickie@rickieproctor.com](mailto:rickie@rickieproctor.com)
 *   ⚡  I'm secretly Spiderman... but don't tell anyone.
-*   <a href="https://www.github.com/rickpro2" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/rickpro2?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
-
 
 
  <br />
