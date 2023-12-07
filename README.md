@@ -10,6 +10,16 @@ I've had the honor of working in a variety of tech-related positions over the pa
 
 I invite you to explore my GitHub portfolio to get a glimpse into my technical capabilities. These projects showcase insights into my problem-solving approach, attention to detail, and ability to analyze risks and implement appropriate mitigation strategies.
 
+
+
+*   🌍  I'm based in Annapolis, Maryland, USA
+*   ✉️  You can contact me at [rickie@rickieproctor.com](mailto:rickie@rickieproctor.com)
+*   ⚡  I'm secretly Spiderman... but don't tell anyone.<a href="https://www.github.com/rickpro2" target="_blank" rel="noreferrer"><img
+                 src="https://img.shields.io/github/followers/rickpro2?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+
+
+
  <br />
   <br />
    <br />
@@ -72,7 +82,7 @@ Thank you for visiting my GitHub! This repository is meant to showcase my cybers
 *   🌍  I'm based in Annapolis, Maryland, USA
 *   ✉️  You can contact me at [rickie@rickieproctor.com](mailto:rickie@rickieproctor.com)
 *   ⚡  I'm secretly Spiderman... but don't tell anyone.<a href="https://www.github.com/rickpro2" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/rickpro2?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+                 src="https://img.shields.io/github/followers/rickpro2?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
                   
 ### Skills 
 <p align="left">
