@@ -32,12 +32,6 @@ I invite you to explore my GitHub portfolio to get a glimpse into my technical c
 [Google Cloud]: https://cloud.google.com/
 
 
-<p align="right">
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
-                    </p>
-
-
-
 
 
 
