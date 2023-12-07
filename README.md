@@ -16,7 +16,7 @@ I invite you to explore my GitHub portfolio to get a glimpse into my technical c
 
 <h2>📲 Connect with me:</h2>
 
-[<img align="left" alt="RickieProctor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.13.0/icons/minutemailer.svg" />][email]
+[<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.13.0/icons/minutemailer.svg" />][email]
 [<img align="left" alt="RickieProctor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [email]: mailto:rickie@rickieproctor.com
