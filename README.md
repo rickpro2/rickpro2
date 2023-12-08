@@ -26,7 +26,7 @@ I invite you to explore my GitHub portfolio to get a glimpse into my technical c
 [<img align="left" alt="Azure" width="36px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" />][Azure]
 
 [JavaScript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-[HTML5]: https://developer.mozilla.org/en-US/docs/Glossary/HTML5
+[HTML5]: https://www.w3.org/html/
 [Digital Ocean]: https://www.digitalocean.com
 [Linux]: https://www.linux.org
 [Illustrator]: https://www.adobe.com/uk/products/illustrator.html
