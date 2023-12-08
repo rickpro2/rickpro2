@@ -43,7 +43,7 @@ I invite you to explore my GitHub portfolio to get a glimpse into my technical c
 <br />
 <br />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rickpro2&" alt="rickpro2" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rickpro2&" alt="rickpro2" /></p>
 
 
 
