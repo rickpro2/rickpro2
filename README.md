@@ -67,8 +67,6 @@ I invite you to explore my GitHub portfolio to get a glimpse into my technical c
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rickpro2&show_icons=true&locale=en&layout=compact" alt="rickpro2" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rickpro2&show_icons=true&locale=en" alt="rickpro2" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rickpro2&" alt="rickpro2" /></p>
 
 
