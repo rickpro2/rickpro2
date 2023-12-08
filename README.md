@@ -38,23 +38,6 @@ I invite you to explore my GitHub portfolio to get a glimpse into my technical c
 <br />
 <br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rickpro2&show_icons=true&locale=en&layout=compact" alt="rickpro2" /></p>
-
-<br />
-<br />
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rickpro2&" alt="rickpro2" /></p>
-
-
-
-
-
-
-
-
-<br />
-<br />
-
 <h2>📲 Connect with me:</h2>
 
 [<img align="left" alt="Email" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.13.0/icons/minutemailer.svg" />][email]
@@ -194,6 +177,19 @@ I invite you to explore my GitHub portfolio to get a glimpse into my technical c
 
 
 ---
+
+
+<br />
+<br />
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rickpro2&show_icons=true&locale=en&layout=compact" alt="rickpro2" />
+
+<br />
+<br />
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rickpro2&" alt="rickpro2" /></p>
+
+
 
 
 
