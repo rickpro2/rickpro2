@@ -35,7 +35,6 @@ I invite you to explore my GitHub portfolio to get a glimpse into my technical c
 [Wordpress]: https://wordpress.org/
 [Azure]: https://azure.microsoft.com/en-us/
 
-
 <br />
 <br />
 
