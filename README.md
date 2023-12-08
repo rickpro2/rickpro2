@@ -15,7 +15,7 @@ I invite you to explore my GitHub portfolio to get a glimpse into my technical c
 *   ⚡  I'm secretly Spiderman... but don't tell anyone.
 
 ### Skills
-[<img align="left" alt="JavaScript" width="36px" target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />][JavaScript]
+[<img align="left" alt="JavaScript" width="36px" target=" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />][JavaScript]
 [<img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" />][HTML5]
 [<img align="left" alt="Digital Ocean" width="36px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" />][Digital Ocean]
 [<img align="left" alt="Linux" width="36px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" />][Linux]
@@ -23,6 +23,7 @@ I invite you to explore my GitHub portfolio to get a glimpse into my technical c
 [<img align="left" alt="Premiere Pro" width="36px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" />][Premiere Pro]
 [<img align="left" alt="Google Cloud" width="36px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" />][Google Cloud]
 [<img align="left" alt="Wordpress" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />][Wordpress]
+[<img align="left" alt="Azure" width="36px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" />][Azure]
 
 [JavaScript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [HTML5]: https://developer.mozilla.org/en-US/docs/Glossary/HTML5
@@ -32,6 +33,8 @@ I invite you to explore my GitHub portfolio to get a glimpse into my technical c
 [Premiere Pro]: https://www.adobe.com/uk/products/premiere.html
 [Google Cloud]: https://cloud.google.com/
 [Wordpress]: https://wordpress.org/
+[Azure]: https://azure.microsoft.com/en-us/
+
 
 <br />
 <br />
