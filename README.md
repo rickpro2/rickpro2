@@ -18,7 +18,7 @@ I invite you to explore my GitHub portfolio to get a glimpse into my technical c
 [<img align="left" alt="JavaScript" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />][JavaScript]
 [<img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />][HTML5]
 [<img align="left" alt="Digital Ocean" width="36px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" />][Digital Ocean]
-[<img align="left" alt="Linux" width="36px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" />][Linux]
+[<img align="left" alt="Linux" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />][Linux]
 [<img align="left" alt="Illustrator" width="36px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" />][Illustrator]
 [<img align="left" alt="Premiere Pro" width="36px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" />][Premiere Pro]
 [<img align="left" alt="Google Cloud" width="36px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" />][Google Cloud]
