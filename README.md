@@ -16,7 +16,7 @@ I invite you to explore my GitHub portfolio to get a glimpse into my technical c
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Cybersecurity Lab: Azure Sentinel and Honeypot Setup</b>
   - [Azure Sentinel and Honeypot Setup](https://github.com/rickpro2/Azure-Sentinel-SIEM/blob/main/README.md)
 
 
