@@ -17,9 +17,7 @@ I invite you to explore my GitHub portfolio to get a glimpse into my technical c
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-
-
+  - [Azure Sentinel and Honeypot Setup](https://github.com/rickpro2/Azure-Sentinel-SIEM/blob/main/README.md)
 
 
 ### Skills
